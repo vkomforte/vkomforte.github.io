@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF:RDF xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <RDF:Description about="urn:mozilla:extension:vkomforte@vkomforte">
+    <em:updates>
+      <RDF:Seq>
+        <RDF:li>
+          <RDF:Description>
+            <em:version>705.21.1</em:version>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:minVersion>25.0</em:minVersion>
+                <em:maxVersion>*</em:maxVersion>
+                <em:updateLink>https://github.com/vkomforte/vkomforte.github.io/releases/download/705.21.1/vkomforte-705.21.1-an.fx.sm.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</em:id>
+                <em:minVersion>52.0</em:minVersion>
+                <em:maxVersion>*</em:maxVersion>
+                <em:updateLink>https://github.com/vkomforte/vkomforte.github.io/releases/download/705.21.1/vkomforte-705.21.1-an.fx.sm.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
+                <em:minVersion>2.40</em:minVersion>
+                <em:maxVersion>*</em:maxVersion>
+                <em:updateLink>https://github.com/vkomforte/vkomforte.github.io/releases/download/705.21.1/vkomforte-705.21.1-an.fx.sm.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+          </RDF:Description>
+        </RDF:li>
+      </RDF:Seq>
+    </em:updates>
+  </RDF:Description>
+</RDF:RDF>
