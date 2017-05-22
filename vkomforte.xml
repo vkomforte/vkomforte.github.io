@@ -5,13 +5,13 @@
       <RDF:Seq>
         <RDF:li>
           <RDF:Description>
-            <em:version>705.21.2</em:version>
+            <em:version>705.21.3</em:version>
             <em:targetApplication>
               <RDF:Description>
                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
                 <em:minVersion>25.0</em:minVersion>
                 <em:maxVersion>*</em:maxVersion>
-                <em:updateLink>https://github.com/vkomforte/vkomforte.github.io/releases/download/705.21.2/vkomforte-705.21.2-an.fx.sm.xpi</em:updateLink>
+                <em:updateLink>https://github.com/vkomforte/vkomforte.github.io/releases/download/705.21.3/vkomforte-705.21.3-an.fx.sm.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
             <em:targetApplication>
@@ -19,7 +19,7 @@
                 <em:id>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</em:id>
                 <em:minVersion>52.0</em:minVersion>
                 <em:maxVersion>*</em:maxVersion>
-                <em:updateLink>https://github.com/vkomforte/vkomforte.github.io/releases/download/705.21.2/vkomforte-705.21.2-an.fx.sm.xpi</em:updateLink>
+                <em:updateLink>https://github.com/vkomforte/vkomforte.github.io/releases/download/705.21.3/vkomforte-705.21.3-an.fx.sm.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
             <em:targetApplication>
@@ -27,7 +27,7 @@
                 <em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
                 <em:minVersion>2.40</em:minVersion>
                 <em:maxVersion>*</em:maxVersion>
-                <em:updateLink>https://github.com/vkomforte/vkomforte.github.io/releases/download/705.21.2/vkomforte-705.21.2-an.fx.sm.xpi</em:updateLink>
+                <em:updateLink>https://github.com/vkomforte/vkomforte.github.io/releases/download/705.21.3/vkomforte-705.21.3-an.fx.sm.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
           </RDF:Description>
